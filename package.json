@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "webpack --mode development",
     "build": "webpack --mode production",
-    "start": "webpack-dev-server --host 0.0.0.0 --disableHostCheck true --mode development --open"
+    "start": "webpack-dev-server --host 0.0.0.0 --disable-host-check --mode development --open"
   },
 
   "author": "Swapnil",
